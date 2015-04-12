@@ -5,12 +5,12 @@ Execution
 
 Execute with the python interpreter.
 
-	$ python renato_pereyra_hw1.py
-	$ python renato_pereyra_hw1_extra_credit.py
+	$ python optimization.py
+	$ python optimization_extra.py
 
-	Note: The assignment script (renato_pereyra_hw1.py) runs within a reasonable amount of time (7 min on my Fedora VM) and produces the snapshots in the results folder.
+	Note: The assignment script (optimization.py) runs within a reasonable amount of time (7 min on my Fedora VM) and produces the snapshots in the results folder.
 
-	The extra credit script (renato_pereyra_hw1_extra_credit.py) takes much longer to run (somewhere in the order of 4 hours) and produces the snapshots in the results_extra_credit folder.
+	The extra credit script (optimization_extra.py) takes much longer to run (somewhere in the order of 4 hours) and produces the snapshots in the results_extra_credit folder.
 
 -------------------------------------------------------------------------------
 
