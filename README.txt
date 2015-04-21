@@ -1,6 +1,10 @@
 Renato Pereyra
 COMP 590 - Artificial Intelligence & Machine Learning HW1
 
+Overview:
+
+Take a "shredded" image and organize the pixel strips to produce the original image.
+
 Execution
 
 Execute with the python interpreter. This project unscrambles pixel slices to generate a whole image that minimizes pixel disagreement between slices. The algorithm will not always finish because it may get stuck in a local minimum during the minimization process.
